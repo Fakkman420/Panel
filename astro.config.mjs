@@ -1,4 +1,4 @@
-import path from 'path';
+import path from '/workspaces/Panel';
 import { fileURLToPath } from 'url';
 
 import { defineConfig, squooshImageService } from 'astro/config';

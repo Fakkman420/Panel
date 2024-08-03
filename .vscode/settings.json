@@ -11,5 +11,9 @@
   "yaml.schemas": {
     "./.vscode/astrowind/config-schema.json": "/src/config.yaml"
   },
-  "eslint.useFlatConfig": true
+  "eslint.useFlatConfig": true,
+  "editor.accessibilityPageSize": 17,
+  "workbench.commandPalette.experimental.suggestCommands": true,
+  "workbench.list.horizontalScrolling": true,
+  "workbench.editor.centeredLayoutAutoResize": true
 }
